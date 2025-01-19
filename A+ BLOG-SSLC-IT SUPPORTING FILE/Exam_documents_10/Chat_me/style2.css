@@ -1,0 +1,19 @@
+h3
+{
+    font-family:andika;
+    color:darkgreen;
+    font-size:40px;
+    background:#FFCCAA;
+    text-align: center;
+}
+p.new
+{
+    font-family:Ubuntu;
+    color:darkblue;
+    font-size:20px;
+    text-align: justify;
+}
+body
+{
+    background:#EEFFAA;
+}
